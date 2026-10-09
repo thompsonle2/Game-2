@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement; // Required for loading scenes
 public class SceneChanger : MonoBehaviour
 {
     [Header("Scene Settings")]
-    [SerializeField] private string sceneToLoad; Drawer
+    [SerializeField] private string sceneToLoad; // Name of the target scene
 
     // Works for standard 2D and 3D object clicks
     private void OnMouseDown()

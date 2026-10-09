@@ -1,39 +1,69 @@
+
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
-[RequireComponent(typeof(Rigidbody2D))]
+// Attach to the Player. Requires: Rigidbody 2D, a Collider 2D, Sprite Renderer.
 public class PlayerMovement : MonoBehaviour
 {
-    [Header("Movement Settings")]
-    [SerializeField] private float moveSpeed = 8f;
+    public float runSpeed = 6f;
+    private Animator anim;
 
-    private Rigidbody2D rb;
-    private float horizontalInput;
+    Rigidbody2D rb;
+    SpriteRenderer sprite;
+    InputAction moveAction;
+    InputAction jumpAction;
+    bool isGrounded;
 
-    private void Awake()
+    void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        sprite = GetComponent<SpriteRenderer>();
+        anim = GetComponent<Animator>();
+
+        moveAction = InputSystem.actions.FindAction("Move");
+        jumpAction = InputSystem.actions.FindAction("Jump");
     }
 
-    public void OnMove(InputAction.CallbackContext context)
+    void Update()
     {
-        if (context.performed)
+        if (jumpAction.WasPressedThisFrame() && isGrounded)
         {
-            Vector2 inputVector = context.ReadValue<Vector2>();
-            horizontalInput = inputVector.x;
-            //debug
-            Debug.Log($"Input Received: {horizontalInput}");
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 8f);
+            isGrounded = false;
         }
-       /* else if (context.canceled)
-        {
-            horizontalInput = 0f;
-        }*/
     }
 
-    private void FixedUpdate()
+    void FixedUpdate()
     {
-        // Move position safely through the physics solver instead of forcing velocity
-        Vector2 targetPosition = rb.position + new Vector2(horizontalInput * moveSpeed * Time.fixedDeltaTime, 0f);
-        rb.MovePosition(targetPosition);
+        Vector2 move = moveAction.ReadValue<Vector2>();
+
+        float x = move.x;
+        float y = move.y;
+
+        rb.linearVelocity = new Vector2(
+            x * runSpeed,
+            y * runSpeed
+        );
+
+        if (x != 0)
+            sprite.flipX = x < 0;
+    }
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Ground"))
+            isGrounded = true;
+    }
+
+    void OnCollisionExit2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Ground"))
+            isGrounded = false;
+    }
+
+    public void Die()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

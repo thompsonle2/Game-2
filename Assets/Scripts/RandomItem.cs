@@ -17,7 +17,7 @@ public class RandomItem : MonoBehaviour
         {
             itemDisplayText.text = GetRandomItem();
         }
-        else
+        else 
         {
         Debug.Log(GetRandomItem());
         }

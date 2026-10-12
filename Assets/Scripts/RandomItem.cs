@@ -9,7 +9,7 @@ public class RandomItem : MonoBehaviour
 
     [Header("Item List")]
 
-    public string[] randomItem = {"get a battery", "find your keys", "put on jewlery", "fill up your waterbottle"};
+    public string[] randomItem = {"get a battery", "find your keys", "fill up your waterbottle"};
 
     void Start()
     {

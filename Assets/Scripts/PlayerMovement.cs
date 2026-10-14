@@ -25,12 +25,17 @@ public class PlayerMovement : MonoBehaviour
         jumpAction = InputSystem.actions.FindAction("Jump");
     }
 
+    public Transform groundCheck; // Assign your ground check child object here in Inspector
+    public LayerMask groundLayer;  // Set this to your Ground Layer in Inspector
+
     void Update()
     {
+        // Performs a small circle check at the groundCheck position
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
+
         if (jumpAction.WasPressedThisFrame() && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 8f);
-            isGrounded = false;
         }
     }
 

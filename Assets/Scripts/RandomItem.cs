@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.UI;
 using TMPro;
 
 public class RandomItem : MonoBehaviour
@@ -8,20 +7,24 @@ public class RandomItem : MonoBehaviour
     [SerializeField] private TextMeshProUGUI itemDisplayText;
 
     [Header("Item List")]
-
-    public string[] randomItem = {"get a battery", "find your keys", "fill up your waterbottle"};
+    public string[] randomItem = { "get a battery", "find your keys", "fill up your waterbottle" };
 
     void Start()
     {
+        string selectedItem = GetRandomItem();
+
+        // Save text so it can be read in the next scene
+        PlayerPrefs.SetString("CurrentObjective", selectedItem);
+        PlayerPrefs.Save();
+
         if (itemDisplayText != null)
         {
-            itemDisplayText.text = GetRandomItem();
+            itemDisplayText.text = selectedItem;
         }
         else 
         {
-        Debug.Log(GetRandomItem());
+            Debug.Log(selectedItem);
         }
-        
     }
 
     string GetRandomItem()

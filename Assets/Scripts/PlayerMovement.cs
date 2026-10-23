@@ -1,70 +1,43 @@
-
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 
-// Attach to the Player. Requires: Rigidbody 2D, a Collider 2D, Sprite Renderer.
+[RequireComponent(typeof(Rigidbody2D))]
 public class PlayerMovement : MonoBehaviour
 {
+    [Header("Movement Settings")]
     public float runSpeed = 6f;
-    private Animator anim;
 
-    Rigidbody2D rb;
-    SpriteRenderer sprite;
-    InputAction moveAction;
-    InputAction jumpAction;
-    bool isGrounded;
+    private Rigidbody2D rb;
+    private SpriteRenderer sprite;
+    private InputAction moveAction;
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
-        anim = GetComponent<Animator>();
 
+        // Fetch horizontal move input
         moveAction = InputSystem.actions.FindAction("Move");
-        jumpAction = InputSystem.actions.FindAction("Jump");
-    }
-
-    public Transform groundCheck; // Assign your ground check child object here in Inspector
-    public LayerMask groundLayer;  // Set this to your Ground Layer in Inspector
-
-    void Update()
-    {
-        // Performs a small circle check at the groundCheck position
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
-
-        if (jumpAction.WasPressedThisFrame() && isGrounded)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 8f);
-        }
     }
 
     void FixedUpdate()
     {
+        if (moveAction == null) return;
+
         Vector2 move = moveAction.ReadValue<Vector2>();
 
+        // Horizontal movement only (X-axis)
         float x = move.x;
-        float y = move.y;
 
-        rb.linearVelocity = new Vector2(
-            x * runSpeed,
-            y * runSpeed
-        );
+        // Apply horizontal velocity while preserving Y-velocity (for gravity or platform support)
+        rb.linearVelocity = new Vector2(x * runSpeed, rb.linearVelocity.y);
 
-        if (x != 0)
+        // Flip sprite direction based on movement
+        if (x != 0 && sprite != null)
+        {
             sprite.flipX = x < 0;
-    }
-
-    void OnCollisionEnter2D(Collision2D other)
-    {
-        if (other.gameObject.CompareTag("Ground"))
-            isGrounded = true;
-    }
-
-    void OnCollisionExit2D(Collision2D other)
-    {
-        if (other.gameObject.CompareTag("Ground"))
-            isGrounded = false;
+        }
     }
 
     public void Die()

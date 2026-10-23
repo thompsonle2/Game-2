@@ -1,0 +1,4797 @@
+fileFormatVersion: 2
+guid: bbe9a579db13df34cab672ee4126681e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 360029614134721488
+    second: menu,levelsSelect,invetoryPanels_0
+  - first:
+      213: 6218673104166820117
+    second: menu,levelsSelect,invetoryPanels_1
+  - first:
+      213: 2050965107850907376
+    second: menu,levelsSelect,invetoryPanels_2
+  - first:
+      213: 748361753559072648
+    second: menu,levelsSelect,invetoryPanels_3
+  - first:
+      213: -5187534215463002088
+    second: menu,levelsSelect,invetoryPanels_4
+  - first:
+      213: 5119034757794528578
+    second: menu,levelsSelect,invetoryPanels_5
+  - first:
+      213: -2522827375808671724
+    second: menu,levelsSelect,invetoryPanels_6
+  - first:
+      213: 369789732121045109
+    second: menu,levelsSelect,invetoryPanels_7
+  - first:
+      213: 1447103731475501515
+    second: menu,levelsSelect,invetoryPanels_8
+  - first:
+      213: 3849624243928967330
+    second: menu,levelsSelect,invetoryPanels_9
+  - first:
+      213: -4204929517426088192
+    second: menu,levelsSelect,invetoryPanels_10
+  - first:
+      213: 2744044919943970341
+    second: menu,levelsSelect,invetoryPanels_11
+  - first:
+      213: -8008458419920938563
+    second: menu,levelsSelect,invetoryPanels_12
+  - first:
+      213: 1976216317918022590
+    second: menu,levelsSelect,invetoryPanels_13
+  - first:
+      213: 2531685761558340612
+    second: menu,levelsSelect,invetoryPanels_14
+  - first:
+      213: -2462742760056431270
+    second: menu,levelsSelect,invetoryPanels_15
+  - first:
+      213: 7769107632613551680
+    second: menu,levelsSelect,invetoryPanels_16
+  - first:
+      213: -7110513047190836594
+    second: menu,levelsSelect,invetoryPanels_17
+  - first:
+      213: 7163139196834201620
+    second: menu,levelsSelect,invetoryPanels_18
+  - first:
+      213: -2349751802889409761
+    second: menu,levelsSelect,invetoryPanels_19
+  - first:
+      213: 9098220996047009207
+    second: menu,levelsSelect,invetoryPanels_20
+  - first:
+      213: -8004150201490490870
+    second: menu,levelsSelect,invetoryPanels_21
+  - first:
+      213: -6895012189561652712
+    second: menu,levelsSelect,invetoryPanels_22
+  - first:
+      213: 8857138451465932697
+    second: menu,levelsSelect,invetoryPanels_23
+  - first:
+      213: -5157123016344520268
+    second: menu,levelsSelect,invetoryPanels_24
+  - first:
+      213: -4519547409000112487
+    second: menu,levelsSelect,invetoryPanels_25
+  - first:
+      213: 4670903544140827389
+    second: menu,levelsSelect,invetoryPanels_26
+  - first:
+      213: 5232012489279581581
+    second: menu,levelsSelect,invetoryPanels_27
+  - first:
+      213: 5507009462619888167
+    second: menu,levelsSelect,invetoryPanels_28
+  - first:
+      213: 4525541105326726533
+    second: menu,levelsSelect,invetoryPanels_29
+  - first:
+      213: 2284166045155189690
+    second: menu,levelsSelect,invetoryPanels_30
+  - first:
+      213: 8751251871418491334
+    second: menu,levelsSelect,invetoryPanels_31
+  - first:
+      213: 1250727462029092105
+    second: menu,levelsSelect,invetoryPanels_32
+  - first:
+      213: 2242601009259131900
+    second: menu,levelsSelect,invetoryPanels_33
+  - first:
+      213: -6162746896728611046
+    second: menu,levelsSelect,invetoryPanels_34
+  - first:
+      213: -4944753743042885379
+    second: menu,levelsSelect,invetoryPanels_35
+  - first:
+      213: -8950280944208038204
+    second: menu,levelsSelect,invetoryPanels_36
+  - first:
+      213: -1132349870342720493
+    second: menu,levelsSelect,invetoryPanels_37
+  - first:
+      213: -6159743760297451221
+    second: menu,levelsSelect,invetoryPanels_38
+  - first:
+      213: -4564996995006688839
+    second: menu,levelsSelect,invetoryPanels_39
+  - first:
+      213: 1779581388139994206
+    second: menu,levelsSelect,invetoryPanels_40
+  - first:
+      213: -8571156469528105839
+    second: menu,levelsSelect,invetoryPanels_41
+  - first:
+      213: -5301760683721259821
+    second: menu,levelsSelect,invetoryPanels_42
+  - first:
+      213: 5374523480326708275
+    second: menu,levelsSelect,invetoryPanels_43
+  - first:
+      213: -2728841513873718250
+    second: menu,levelsSelect,invetoryPanels_44
+  - first:
+      213: 3352802055428586962
+    second: menu,levelsSelect,invetoryPanels_45
+  - first:
+      213: 4014229426007267215
+    second: menu,levelsSelect,invetoryPanels_46
+  - first:
+      213: -1303155890169558867
+    second: menu,levelsSelect,invetoryPanels_47
+  - first:
+      213: -4330514047545667605
+    second: menu,levelsSelect,invetoryPanels_48
+  - first:
+      213: -1229165334752738542
+    second: menu,levelsSelect,invetoryPanels_49
+  - first:
+      213: 5386802627308941607
+    second: menu,levelsSelect,invetoryPanels_50
+  - first:
+      213: 7239939606349839313
+    second: menu,levelsSelect,invetoryPanels_51
+  - first:
+      213: 8574817384251848077
+    second: menu,levelsSelect,invetoryPanels_52
+  - first:
+      213: 6698827776560704053
+    second: menu,levelsSelect,invetoryPanels_53
+  - first:
+      213: 2848683293682579404
+    second: menu,levelsSelect,invetoryPanels_54
+  - first:
+      213: -4186808517265676395
+    second: menu,levelsSelect,invetoryPanels_55
+  - first:
+      213: 2929343393222667165
+    second: menu,levelsSelect,invetoryPanels_56
+  - first:
+      213: 6439857112175321295
+    second: menu,levelsSelect,invetoryPanels_57
+  - first:
+      213: 4263271547736648663
+    second: menu,levelsSelect,invetoryPanels_58
+  - first:
+      213: -4575048328987491081
+    second: menu,levelsSelect,invetoryPanels_59
+  - first:
+      213: 5928932502728007356
+    second: menu,levelsSelect,invetoryPanels_60
+  - first:
+      213: 8847699655095527041
+    second: menu,levelsSelect,invetoryPanels_61
+  - first:
+      213: -2618589875349017806
+    second: menu,levelsSelect,invetoryPanels_62
+  - first:
+      213: -4162587122497544755
+    second: menu,levelsSelect,invetoryPanels_63
+  - first:
+      213: 6398906953292546565
+    second: menu,levelsSelect,invetoryPanels_64
+  - first:
+      213: 5930920182708256703
+    second: menu,levelsSelect,invetoryPanels_65
+  - first:
+      213: -1712109295278641219
+    second: menu,levelsSelect,invetoryPanels_66
+  - first:
+      213: -4991817290098805702
+    second: menu,levelsSelect,invetoryPanels_67
+  - first:
+      213: 3045231097557899748
+    second: menu,levelsSelect,invetoryPanels_68
+  - first:
+      213: 7923571659100652325
+    second: menu,levelsSelect,invetoryPanels_69
+  - first:
+      213: -5970460176380674448
+    second: menu,levelsSelect,invetoryPanels_70
+  - first:
+      213: 4095396797289118172
+    second: menu,levelsSelect,invetoryPanels_71
+  - first:
+      213: -8639378236951690765
+    second: menu,levelsSelect,invetoryPanels_72
+  - first:
+      213: 2092610556002314657
+    second: menu,levelsSelect,invetoryPanels_73
+  - first:
+      213: 7573584174042827716
+    second: menu,levelsSelect,invetoryPanels_74
+  - first:
+      213: 2586218056394809715
+    second: menu,levelsSelect,invetoryPanels_75
+  - first:
+      213: 3087045182905403326
+    second: menu,levelsSelect,invetoryPanels_76
+  - first:
+      213: 6409784485444318618
+    second: menu,levelsSelect,invetoryPanels_77
+  - first:
+      213: -5695739927977611100
+    second: menu,levelsSelect,invetoryPanels_78
+  - first:
+      213: -5828205760772640029
+    second: menu,levelsSelect,invetoryPanels_79
+  - first:
+      213: -5102497093421756382
+    second: menu,levelsSelect,invetoryPanels_80
+  - first:
+      213: 9135323613882190731
+    second: menu,levelsSelect,invetoryPanels_81
+  - first:
+      213: 2503398271421245431
+    second: menu,levelsSelect,invetoryPanels_82
+  - first:
+      213: -1088111397008661244
+    second: menu,levelsSelect,invetoryPanels_83
+  - first:
+      213: -1084407917995504587
+    second: menu,levelsSelect,invetoryPanels_84
+  - first:
+      213: -3995538424482773841
+    second: menu,levelsSelect,invetoryPanels_85
+  - first:
+      213: 4553559612125364284
+    second: menu,levelsSelect,invetoryPanels_86
+  - first:
+      213: 1831503905742583865
+    second: menu,levelsSelect,invetoryPanels_87
+  - first:
+      213: -7148308545558791635
+    second: menu,levelsSelect,invetoryPanels_88
+  - first:
+      213: -805010491952544984
+    second: menu,levelsSelect,invetoryPanels_89
+  - first:
+      213: 6991152697230239368
+    second: menu,levelsSelect,invetoryPanels_90
+  - first:
+      213: 1937080576772447539
+    second: menu,levelsSelect,invetoryPanels_91
+  - first:
+      213: -1253045525300949659
+    second: menu,levelsSelect,invetoryPanels_92
+  - first:
+      213: -5451437554903597891
+    second: menu,levelsSelect,invetoryPanels_93
+  - first:
+      213: 1965684461873073892
+    second: menu,levelsSelect,invetoryPanels_94
+  - first:
+      213: 3135818707626045734
+    second: menu,levelsSelect,invetoryPanels_95
+  - first:
+      213: -624531594051953502
+    second: menu,levelsSelect,invetoryPanels_96
+  - first:
+      213: 6202963804879344004
+    second: menu,levelsSelect,invetoryPanels_97
+  - first:
+      213: -5777870488521266518
+    second: menu,levelsSelect,invetoryPanels_98
+  - first:
+      213: 30470060396185526
+    second: menu,levelsSelect,invetoryPanels_99
+  - first:
+      213: -5894120241827493782
+    second: menu,levelsSelect,invetoryPanels_100
+  - first:
+      213: -3129331041385035352
+    second: menu,levelsSelect,invetoryPanels_101
+  - first:
+      213: 745384038918912158
+    second: menu,levelsSelect,invetoryPanels_102
+  - first:
+      213: 2420397504521502519
+    second: menu,levelsSelect,invetoryPanels_103
+  - first:
+      213: -2806547862020602222
+    second: menu,levelsSelect,invetoryPanels_104
+  - first:
+      213: -5173399942710495564
+    second: menu,levelsSelect,invetoryPanels_105
+  - first:
+      213: 5997743448071408626
+    second: menu,levelsSelect,invetoryPanels_106
+  - first:
+      213: 3132348652600819441
+    second: menu,levelsSelect,invetoryPanels_107
+  - first:
+      213: -4486567160427587719
+    second: menu,levelsSelect,invetoryPanels_108
+  - first:
+      213: 6204955651744439266
+    second: menu,levelsSelect,invetoryPanels_109
+  - first:
+      213: 4555272647895413573
+    second: menu,levelsSelect,invetoryPanels_110
+  - first:
+      213: 4679337720636644189
+    second: menu,levelsSelect,invetoryPanels_111
+  - first:
+      213: -7190663770850985618
+    second: menu,levelsSelect,invetoryPanels_112
+  - first:
+      213: -7167707494878183834
+    second: menu,levelsSelect,invetoryPanels_113
+  - first:
+      213: -9121063904420090877
+    second: menu,levelsSelect,invetoryPanels_114
+  - first:
+      213: -1896313596178699588
+    second: menu,levelsSelect,invetoryPanels_115
+  - first:
+      213: 2427076813562121434
+    second: menu,levelsSelect,invetoryPanels_116
+  - first:
+      213: 3744388803706279901
+    second: menu,levelsSelect,invetoryPanels_117
+  - first:
+      213: -3349768124281172750
+    second: menu,levelsSelect,invetoryPanels_118
+  - first:
+      213: 4030218661925183000
+    second: menu,levelsSelect,invetoryPanels_119
+  - first:
+      213: 5805929304253870340
+    second: menu,levelsSelect,invetoryPanels_120
+  - first:
+      213: -5681589971404014412
+    second: menu,levelsSelect,invetoryPanels_121
+  - first:
+      213: 2993992343570152096
+    second: menu,levelsSelect,invetoryPanels_122
+  - first:
+      213: 2399145528617467002
+    second: menu,levelsSelect,invetoryPanels_123
+  - first:
+      213: -6725043502579749815
+    second: menu,levelsSelect,invetoryPanels_124
+  - first:
+      213: -3127697227267257454
+    second: menu,levelsSelect,invetoryPanels_125
+  - first:
+      213: -85971740048513115
+    second: menu,levelsSelect,invetoryPanels_126
+  - first:
+      213: 5813768833054642744
+    second: menu,levelsSelect,invetoryPanels_127
+  - first:
+      213: 2552668954287726410
+    second: menu,levelsSelect,invetoryPanels_128
+  - first:
+      213: 7184709465025777099
+    second: menu,levelsSelect,invetoryPanels_129
+  - first:
+      213: 2816452878343323861
+    second: menu,levelsSelect,invetoryPanels_130
+  - first:
+      213: 5282017121037554948
+    second: menu,levelsSelect,invetoryPanels_131
+  - first:
+      213: -8773918811686234880
+    second: menu,levelsSelect,invetoryPanels_132
+  - first:
+      213: 5987331437584727214
+    second: menu,levelsSelect,invetoryPanels_133
+  - first:
+      213: -5088658367058327525
+    second: menu,levelsSelect,invetoryPanels_134
+  - first:
+      213: 4691768981405125621
+    second: menu,levelsSelect,invetoryPanels_135
+  - first:
+      213: 275683871358287063
+    second: menu,levelsSelect,invetoryPanels_136
+  - first:
+      213: -4030576668596287549
+    second: menu,levelsSelect,invetoryPanels_137
+  - first:
+      213: 3516543783416695724
+    second: menu,levelsSelect,invetoryPanels_138
+  - first:
+      213: 1869023495990057671
+    second: menu,levelsSelect,invetoryPanels_139
+  - first:
+      213: -5103088558982377264
+    second: menu,levelsSelect,invetoryPanels_140
+  - first:
+      213: -3872880271794389313
+    second: menu,levelsSelect,invetoryPanels_141
+  - first:
+      213: 8965256343671025373
+    second: menu,levelsSelect,invetoryPanels_142
+  - first:
+      213: -6301826262073509933
+    second: menu,levelsSelect,invetoryPanels_143
+  - first:
+      213: 3013678596832090543
+    second: menu,levelsSelect,invetoryPanels_144
+  - first:
+      213: 925492544373465584
+    second: menu,levelsSelect,invetoryPanels_145
+  - first:
+      213: 6690632116881294407
+    second: menu,levelsSelect,invetoryPanels_146
+  - first:
+      213: -1558457746530132176
+    second: menu,levelsSelect,invetoryPanels_147
+  - first:
+      213: -228283073596702832
+    second: menu,levelsSelect,invetoryPanels_148
+  - first:
+      213: -4014328565646778626
+    second: menu,levelsSelect,invetoryPanels_149
+  - first:
+      213: 7572969390451172284
+    second: menu,levelsSelect,invetoryPanels_150
+  - first:
+      213: 1352427534303281262
+    second: menu,levelsSelect,invetoryPanels_151
+  - first:
+      213: -5355630982820859869
+    second: menu,levelsSelect,invetoryPanels_152
+  - first:
+      213: 3420723124684921580
+    second: menu,levelsSelect,invetoryPanels_153
+  - first:
+      213: -970396592034203566
+    second: menu,levelsSelect,invetoryPanels_154
+  - first:
+      213: -6012829154946715096
+    second: menu,levelsSelect,invetoryPanels_155
+  - first:
+      213: -8046849897413212125
+    second: menu,levelsSelect,invetoryPanels_156
+  - first:
+      213: 3568263971387856080
+    second: menu,levelsSelect,invetoryPanels_157
+  - first:
+      213: 6999034587650867747
+    second: menu,levelsSelect,invetoryPanels_158
+  - first:
+      213: 7387069013205014519
+    second: menu,levelsSelect,invetoryPanels_159
+  - first:
+      213: -2606291383928080591
+    second: menu,levelsSelect,invetoryPanels_160
+  - first:
+      213: 9028569766754714636
+    second: menu,levelsSelect,invetoryPanels_161
+  - first:
+      213: 3800278295036909590
+    second: menu,levelsSelect,invetoryPanels_162
+  - first:
+      213: 4827092261462770791
+    second: menu,levelsSelect,invetoryPanels_163
+  - first:
+      213: 3091438801768534098
+    second: menu,levelsSelect,invetoryPanels_164
+  - first:
+      213: -7725569933181970487
+    second: menu,levelsSelect,invetoryPanels_165
+  - first:
+      213: 7779618891065436904
+    second: menu,levelsSelect,invetoryPanels_166
+  - first:
+      213: 8835775714271321114
+    second: menu,levelsSelect,invetoryPanels_167
+  - first:
+      213: -1517177057488781105
+    second: menu,levelsSelect,invetoryPanels_168
+  - first:
+      213: 6354337092701150938
+    second: menu,levelsSelect,invetoryPanels_169
+  - first:
+      213: -1304272019653114520
+    second: menu,levelsSelect,invetoryPanels_170
+  - first:
+      213: 3386485407347914008
+    second: menu,levelsSelect,invetoryPanels_171
+  - first:
+      213: -7745157858320986011
+    second: menu,levelsSelect,invetoryPanels_172
+  - first:
+      213: -5027692564693702100
+    second: menu,levelsSelect,invetoryPanels_173
+  - first:
+      213: -7548921181628699309
+    second: menu,levelsSelect,invetoryPanels_174
+  - first:
+      213: -311994711910726740
+    second: menu,levelsSelect,invetoryPanels_175
+  - first:
+      213: -6774292177762746857
+    second: menu,levelsSelect,invetoryPanels_176
+  - first:
+      213: 252135349640054598
+    second: menu,levelsSelect,invetoryPanels_177
+  - first:
+      213: -7247997138172061614
+    second: menu,levelsSelect,invetoryPanels_178
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_0
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 3119
+        width: 1266
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbfe1bc6051ff400800000000000000
+      internalID: 360029614134721488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_1
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 3071
+        width: 2049
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51993248d3a2d4650800000000000000
+      internalID: 6218673104166820117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2939
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe8c2c26ed767c10800000000000000
+      internalID: 2050965107850907376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2930
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f7064cc07b26a00800000000000000
+      internalID: 748361753559072648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2937
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810a423ad1d2208b0800000000000000
+      internalID: -5187534215463002088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2938
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d783b8df67a0740800000000000000
+      internalID: 5119034757794528578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2936
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4101b434edd1dfcd0800000000000000
+      internalID: -2522827375808671724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2947
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57869a85dc1c12500800000000000000
+      internalID: 369789732121045109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2937
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc15dbb3d25251410800000000000000
+      internalID: 1447103731475501515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2932
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a82e1a8adc9c6530800000000000000
+      internalID: 3849624243928967330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2936
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0076340f1e615a5c0800000000000000
+      internalID: -4204929517426088192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2936
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eb9fce05ec41620800000000000000
+      internalID: 2744044919943970341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_12
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2931
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9502a6f7d3cd090800000000000000
+      internalID: -8008458419920938563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_13
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2941
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb85dc454eec6b10800000000000000
+      internalID: 1976216317918022590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_14
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2932
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404699469ca522320800000000000000
+      internalID: 2531685761558340612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_15
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 2930
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ddba5028492ddd0800000000000000
+      internalID: -2462742760056431270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_16
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2942
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ee4b7ba3a61db60800000000000000
+      internalID: 7769107632613551680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_17
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 2932
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ae8638e02625d90800000000000000
+      internalID: -7110513047190836594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_18
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 2932
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410caf7c525986360800000000000000
+      internalID: 7163139196834201620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_19
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2932
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b617e4f21046fd0800000000000000
+      internalID: -2349751802889409761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_20
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2940
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5f16d9acf534e70800000000000000
+      internalID: 9098220996047009207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_21
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 2930
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ab94faccb8be090800000000000000
+      internalID: -8004150201490490870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_22
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2933
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a7037e1feff40a0800000000000000
+      internalID: -6895012189561652712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_23
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 2936
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f84169e70eaea70800000000000000
+      internalID: 8857138451465932697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_24
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2929
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b93bc3b0f73e68b0800000000000000
+      internalID: -5157123016344520268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_25
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2924
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ed20db3975741c0800000000000000
+      internalID: -4519547409000112487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_26
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2926
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa80a0a60262d040800000000000000
+      internalID: 4670903544140827389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_27
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 2923
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8daaeb73a7db9840800000000000000
+      internalID: 5232012489279581581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_28
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2934
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a5c2acde3dc6c40800000000000000
+      internalID: 5507009462619888167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_29
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2930
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d9d6f68a3fdce30800000000000000
+      internalID: 4525541105326726533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_30
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2926
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3eb718aecf2bf10800000000000000
+      internalID: 2284166045155189690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_31
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 2926
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c12fdff531b27970800000000000000
+      internalID: 8751251871418491334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_32
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 2933
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905e115000a7b5110800000000000000
+      internalID: 1250727462029092105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_33
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 2931
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3b2d17cb15f1f10800000000000000
+      internalID: 2242601009259131900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2906
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17a9db5956897aa0800000000000000
+      internalID: -6162746896728611046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2910
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8452c4ba4b06bb0800000000000000
+      internalID: -4944753743042885379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2901
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c63880e6e63ac380800000000000000
+      internalID: -8950280944208038204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2904
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31433c8dac51940f0800000000000000
+      internalID: -1132349870342720493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2909
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21aa0c8fa1348aa0800000000000000
+      internalID: -6159743760297451221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2905
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b196ef5b6fd5a0c0800000000000000
+      internalID: -4564996995006688839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_40
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2907
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c1bf808d752b810800000000000000
+      internalID: 1779581388139994206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_41
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2901
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c6c775a922d0980800000000000000
+      internalID: -8571156469528105839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_42
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2902
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d489a28fbc5c66b0800000000000000
+      internalID: -5301760683721259821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_43
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2909
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c9ed141a4269a40800000000000000
+      internalID: 5374523480326708275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_44
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2905
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614c735e915312ad0800000000000000
+      internalID: -2728841513873718250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_45
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2912
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd350c94bb878e20800000000000000
+      internalID: 3352802055428586962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_46
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2901
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f875518056865b730800000000000000
+      internalID: 4014229426007267215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_47
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2899
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da84c7f4f924aede0800000000000000
+      internalID: -1303155890169558867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_48
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2904
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef8335fa6ce6e3c0800000000000000
+      internalID: -4330514047545667605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_49
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2913
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213c6d3f3a021fee0800000000000000
+      internalID: -1229165334752738542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_50
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2903
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721f3e3f274c1ca40800000000000000
+      internalID: 5386802627308941607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_51
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2914
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db73cf86be697460800000000000000
+      internalID: 7239939606349839313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_52
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2904
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85fc2acafedff670800000000000000
+      internalID: 8574817384251848077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_53
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2900
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53aab61fe5407fc50800000000000000
+      internalID: 6698827776560704053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_54
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2903
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc73a85dc5e888720800000000000000
+      internalID: 2848683293682579404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_55
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2900
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597acc116d775e5c0800000000000000
+      internalID: -4186808517265676395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_56
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 2910
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bac2abb4e17a820800000000000000
+      internalID: 2929343393222667165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_57
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2905
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0ab777ce7fe5950800000000000000
+      internalID: 6439857112175321295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_58
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2912
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db6fd782ee2a2b30800000000000000
+      internalID: 4263271547736648663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_59
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 2904
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4c470d8c92280c0800000000000000
+      internalID: -4575048328987491081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_60
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 2904
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbede5ac2bcc74250800000000000000
+      internalID: 5928932502728007356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_61
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 2912
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186a05d85f759ca70800000000000000
+      internalID: 8847699655095527041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_62
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 2913
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b236bd166e8abd0800000000000000
+      internalID: -2618589875349017806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_63
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2905
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd1be001158b36c0800000000000000
+      internalID: -4162587122497544755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_64
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2902
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50287cd98fb7dc850800000000000000
+      internalID: 6398906953292546565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2559
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf35899b7cde4250800000000000000
+      internalID: 5930920182708256703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_66
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2572
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfa546caad5d38e0800000000000000
+      internalID: -1712109295278641219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2571
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34f1085f9089bab0800000000000000
+      internalID: -4991817290098805702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_68
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2581
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e959e48c85d24a20800000000000000
+      internalID: 3045231097557899748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_69
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2558
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5230c0d617e26fd60800000000000000
+      internalID: 7923571659100652325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_70
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2559
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eb6393a1aa42da0800000000000000
+      internalID: -5970460176380674448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_71
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2581
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9b0b450b5c5d830800000000000000
+      internalID: 4095396797289118172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_72
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2561
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f101425443ca1880800000000000000
+      internalID: -8639378236951690765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_73
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2569
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a920cba6327a0d10800000000000000
+      internalID: 2092610556002314657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_74
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 2581
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbc7520ea6ca1960800000000000000
+      internalID: 7573584174042827716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_75
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2573
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3712d13be9714e320800000000000000
+      internalID: 2586218056394809715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_76
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2563
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb748acec3367da20800000000000000
+      internalID: 3087045182905403326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_77
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2564
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95f7bd670124f850800000000000000
+      internalID: 6409784485444318618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_78
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 2573
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0b2eb76baa4f0b0800000000000000
+      internalID: -5695739927977611100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_79
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 2562
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2f24f5dbd0e1fa0800000000000000
+      internalID: -5828205760772640029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_80
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 2551
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220122f7de94039b0800000000000000
+      internalID: -5102497093421756382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_81
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 2564
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b8fa10d6037ce70800000000000000
+      internalID: 9135323613882190731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_82
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2565
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7e36bd67bddb220800000000000000
+      internalID: 2503398271421245431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2522
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405ae31137046e0f0800000000000000
+      internalID: -1088111397008661244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_84
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2538
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cc1487eb863f0f0800000000000000
+      internalID: -1084407917995504587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_85
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2558
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4c742e8fefc88c0800000000000000
+      internalID: -3995538424482773841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_86
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 2559
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c304c48675e713f30800000000000000
+      internalID: 4553559612125364284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_87
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2515
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938f68a391fca6910800000000000000
+      internalID: 1831503905742583865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_88
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2535
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a341d404b1ccc90800000000000000
+      internalID: -7148308545558791635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_89
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2503
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823c4b2093704d4f0800000000000000
+      internalID: -805010491952544984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_90
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2517
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8862ce06650950160800000000000000
+      internalID: 6991152697230239368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_91
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2511
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d94df7584e1ea10800000000000000
+      internalID: 1937080576772447539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_92
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2504
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d4b01dbb94c9ee0800000000000000
+      internalID: -1253045525300949659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_93
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 2513
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc3fb04d6a9854b0800000000000000
+      internalID: -5451437554903597891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_94
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 2492
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee037a7a93874b10800000000000000
+      internalID: 1965684461873073892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_95
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2497
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6213314108aa48b20800000000000000
+      internalID: 3135818707626045734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_96
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2492
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac5689f2d73557f0800000000000000
+      internalID: -624531594051953502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_97
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2501
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481507047ba551650800000000000000
+      internalID: 6202963804879344004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_98
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2485
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa2a753761e0dfa0800000000000000
+      internalID: -5777870488521266518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_99
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2503
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b70336cb504c6000800000000000000
+      internalID: 30470060396185526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_100
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2494
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68ce625ed0e33ea0800000000000000
+      internalID: -5894120241827493782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_101
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 2506
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a944ad6ff16294d0800000000000000
+      internalID: -3129331041385035352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_102
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2503
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98f10d85d2285a00800000000000000
+      internalID: 745384038918912158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_103
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 2483
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ffe30e4baf69120800000000000000
+      internalID: 2420397504521502519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_104
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2511
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2964127d6932d09d0800000000000000
+      internalID: -2806547862020602222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_105
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 2489
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6f6b579246438b0800000000000000
+      internalID: -5173399942710495564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_106
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb093c73e34c3350800000000000000
+      internalID: 5997743448071408626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_107
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 2503
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fef1fee086587b20800000000000000
+      internalID: 3132348652600819441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_108
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 2483
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977d7cd30f28cb1c0800000000000000
+      internalID: -4486567160427587719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_109
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2200
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb974d3a4e6c1650800000000000000
+      internalID: 6204955651744439266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_110
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2202
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543fbd0a654973f30800000000000000
+      internalID: 4555272647895413573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_111
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2206
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b12ae5dd850f040800000000000000
+      internalID: 4679337720636644189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_112
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2203
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69f72fe561a53c90800000000000000
+      internalID: -7190663770850985618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_113
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2203
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e71e17200378c90800000000000000
+      internalID: -7167707494878183834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_114
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2202
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c276354b87b6180800000000000000
+      internalID: -9121063904420090877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_115
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2206
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba6605d4d0fea5e0800000000000000
+      internalID: -1896313596178699588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_116
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2204
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc05f2b085bea120800000000000000
+      internalID: 2427076813562121434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_117
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7dcd147cdb6f330800000000000000
+      internalID: 3744388803706279901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_118
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2203
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc4b4883ab3381d0800000000000000
+      internalID: -3349768124281172750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_119
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2202
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e533f15863ee730800000000000000
+      internalID: 4030218661925183000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_120
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2201
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401351be0fdc29050800000000000000
+      internalID: 5805929304253870340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_121
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2205
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcba0bf500f621b0800000000000000
+      internalID: -5681589971404014412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_122
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2211
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aafcb27c2ccc8920800000000000000
+      internalID: 2993992343570152096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_123
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cf5b5a52a7b4120800000000000000
+      internalID: 2399145528617467002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_124
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2203
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c6fa1b098dba2a0800000000000000
+      internalID: -6725043502579749815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_125
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2199
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bc2cb61ff2894d0800000000000000
+      internalID: -3127697227267257454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_126
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2204
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7afad68219ecef0800000000000000
+      internalID: -85971740048513115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_127
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2208
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832957473f7aea050800000000000000
+      internalID: 5813768833054642744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_128
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fdc79a3e6ec6320800000000000000
+      internalID: 2552668954287726410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_129
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2210
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd8f35313735b360800000000000000
+      internalID: 7184709465025777099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_130
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0c74c78fc061720800000000000000
+      internalID: 2816452878343323861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_131
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 2203
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40599f4169e7d4940800000000000000
+      internalID: 5282017121037554948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_132
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0051355b357cc3680800000000000000
+      internalID: -8773918811686234880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_133
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2200
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac34c16836471350800000000000000
+      internalID: 5987331437584727214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_134
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 2203
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b184b201d247169b0800000000000000
+      internalID: -5088658367058327525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_135
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 2202
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb49d0d7038c1140800000000000000
+      internalID: 4691768981405125621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_136
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 2201
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc7d96350d63d300800000000000000
+      internalID: 275683871358287063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_137
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 2193
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c74754ffd38018c0800000000000000
+      internalID: -4030576668596287549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_138
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2208
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab09a780f54dc030800000000000000
+      internalID: 3516543783416695724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_139
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2188
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca985397fa10f910800000000000000
+      internalID: 1869023495990057671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_140
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2199
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0de703eff2e29b0800000000000000
+      internalID: -5103088558982377264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_141
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 2183
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeb31689e3c04ac0800000000000000
+      internalID: -3872880271794389313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_142
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2176
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde24d4052dfa6c70800000000000000
+      internalID: 8965256343671025373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_143
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2176
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d771e4376a6b88a0800000000000000
+      internalID: -6301826262073509933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_144
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2171
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9df5777bcb2d920800000000000000
+      internalID: 3013678596832090543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_145
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2170
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f127adc09208dc00800000000000000
+      internalID: 925492544373465584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_146
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2183
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74487893676e9dc50800000000000000
+      internalID: 6690632116881294407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_147
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2175
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f9d94cfee3f5ae0800000000000000
+      internalID: -1558457746530132176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_148
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2177
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fb80a01c9f4dcf0800000000000000
+      internalID: -228283073596702832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_149
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2171
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe9be8307d3a48c0800000000000000
+      internalID: -4014328565646778626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_150
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2181
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3afbc8987981960800000000000000
+      internalID: 7572969390451172284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_151
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2175
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60ca9e4da9c4c210800000000000000
+      internalID: 1352427534303281262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_152
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2174
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320f2e81ff9fca5b0800000000000000
+      internalID: -5355630982820859869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_153
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 2177
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea1fc1ee89d87f20800000000000000
+      internalID: 3420723124684921580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_154
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 2174
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2583d80e0757882f0800000000000000
+      internalID: -970396592034203566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_155
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822f94cadb32e8ca0800000000000000
+      internalID: -6012829154946715096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_156
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 2175
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3280ccff6a8d35090800000000000000
+      internalID: -8046849897413212125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_157
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2183
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4d56f2d25058130800000000000000
+      internalID: 3568263971387856080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_158
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2175
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3224a9fffd0912160800000000000000
+      internalID: 6999034587650867747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_159
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 2177
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7516f0124248660800000000000000
+      internalID: 7387069013205014519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_160
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2181
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1373ec78bc794dbd0800000000000000
+      internalID: -2606291383928080591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_161
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 2187
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c040f311e5ceb4d70800000000000000
+      internalID: 9028569766754714636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_162
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2173
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6185d4f79fc4db430800000000000000
+      internalID: 3800278295036909590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_163
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 2180
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764868636d64df240800000000000000
+      internalID: 4827092261462770791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_164
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 2171
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250d548063ff6ea20800000000000000
+      internalID: 3091438801768534098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_165
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 2181
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7104dd31349c490800000000000000
+      internalID: -7725569933181970487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_166
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2173
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaafd9c922c6fb60800000000000000
+      internalID: 7779618891065436904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_167
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2169
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c5a2cb23bfe9a70800000000000000
+      internalID: 8835775714271321114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_168
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2166
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0420b2187e1fae0800000000000000
+      internalID: -1517177057488781105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_169
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2171
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade5a894be32f2850800000000000000
+      internalID: 6354337092701150938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_170
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865481a228b46ede0800000000000000
+      internalID: -1304272019653114520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_171
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2173
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815340e19863ffe20800000000000000
+      internalID: 3386485407347914008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_172
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1761
+        width: 744
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560d375a6fba38490800000000000000
+      internalID: -7745157858320986011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_173
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1023
+        width: 2049
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a2f81104c0a3ab0800000000000000
+      internalID: -5027692564693702100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_174
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1047
+        width: 358
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d69936e28dc3790800000000000000
+      internalID: -7548921181628699309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_175
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1047
+        width: 360
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3c2c866729babf0800000000000000
+      internalID: -311994711910726740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_176
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1047
+        width: 360
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e7eb3f721ecf1a0800000000000000
+      internalID: -6774292177762746857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_177
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1047
+        width: 360
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6474d9eb3c3cf7300800000000000000
+      internalID: 252135349640054598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu,levelsSelect,invetoryPanels_178
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 65
+        width: 1776
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258d43e1101f96b90800000000000000
+      internalID: -7247997138172061614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      menu,levelsSelect,invetoryPanels_0: 360029614134721488
+      menu,levelsSelect,invetoryPanels_1: 6218673104166820117
+      menu,levelsSelect,invetoryPanels_10: -4204929517426088192
+      menu,levelsSelect,invetoryPanels_100: -5894120241827493782
+      menu,levelsSelect,invetoryPanels_101: -3129331041385035352
+      menu,levelsSelect,invetoryPanels_102: 745384038918912158
+      menu,levelsSelect,invetoryPanels_103: 2420397504521502519
+      menu,levelsSelect,invetoryPanels_104: -2806547862020602222
+      menu,levelsSelect,invetoryPanels_105: -5173399942710495564
+      menu,levelsSelect,invetoryPanels_106: 5997743448071408626
+      menu,levelsSelect,invetoryPanels_107: 3132348652600819441
+      menu,levelsSelect,invetoryPanels_108: -4486567160427587719
+      menu,levelsSelect,invetoryPanels_109: 6204955651744439266
+      menu,levelsSelect,invetoryPanels_11: 2744044919943970341
+      menu,levelsSelect,invetoryPanels_110: 4555272647895413573
+      menu,levelsSelect,invetoryPanels_111: 4679337720636644189
+      menu,levelsSelect,invetoryPanels_112: -7190663770850985618
+      menu,levelsSelect,invetoryPanels_113: -7167707494878183834
+      menu,levelsSelect,invetoryPanels_114: -9121063904420090877
+      menu,levelsSelect,invetoryPanels_115: -1896313596178699588
+      menu,levelsSelect,invetoryPanels_116: 2427076813562121434
+      menu,levelsSelect,invetoryPanels_117: 3744388803706279901
+      menu,levelsSelect,invetoryPanels_118: -3349768124281172750
+      menu,levelsSelect,invetoryPanels_119: 4030218661925183000
+      menu,levelsSelect,invetoryPanels_12: -8008458419920938563
+      menu,levelsSelect,invetoryPanels_120: 5805929304253870340
+      menu,levelsSelect,invetoryPanels_121: -5681589971404014412
+      menu,levelsSelect,invetoryPanels_122: 2993992343570152096
+      menu,levelsSelect,invetoryPanels_123: 2399145528617467002
+      menu,levelsSelect,invetoryPanels_124: -6725043502579749815
+      menu,levelsSelect,invetoryPanels_125: -3127697227267257454
+      menu,levelsSelect,invetoryPanels_126: -85971740048513115
+      menu,levelsSelect,invetoryPanels_127: 5813768833054642744
+      menu,levelsSelect,invetoryPanels_128: 2552668954287726410
+      menu,levelsSelect,invetoryPanels_129: 7184709465025777099
+      menu,levelsSelect,invetoryPanels_13: 1976216317918022590
+      menu,levelsSelect,invetoryPanels_130: 2816452878343323861
+      menu,levelsSelect,invetoryPanels_131: 5282017121037554948
+      menu,levelsSelect,invetoryPanels_132: -8773918811686234880
+      menu,levelsSelect,invetoryPanels_133: 5987331437584727214
+      menu,levelsSelect,invetoryPanels_134: -5088658367058327525
+      menu,levelsSelect,invetoryPanels_135: 4691768981405125621
+      menu,levelsSelect,invetoryPanels_136: 275683871358287063
+      menu,levelsSelect,invetoryPanels_137: -4030576668596287549
+      menu,levelsSelect,invetoryPanels_138: 3516543783416695724
+      menu,levelsSelect,invetoryPanels_139: 1869023495990057671
+      menu,levelsSelect,invetoryPanels_14: 2531685761558340612
+      menu,levelsSelect,invetoryPanels_140: -5103088558982377264
+      menu,levelsSelect,invetoryPanels_141: -3872880271794389313
+      menu,levelsSelect,invetoryPanels_142: 8965256343671025373
+      menu,levelsSelect,invetoryPanels_143: -6301826262073509933
+      menu,levelsSelect,invetoryPanels_144: 3013678596832090543
+      menu,levelsSelect,invetoryPanels_145: 925492544373465584
+      menu,levelsSelect,invetoryPanels_146: 6690632116881294407
+      menu,levelsSelect,invetoryPanels_147: -1558457746530132176
+      menu,levelsSelect,invetoryPanels_148: -228283073596702832
+      menu,levelsSelect,invetoryPanels_149: -4014328565646778626
+      menu,levelsSelect,invetoryPanels_15: -2462742760056431270
+      menu,levelsSelect,invetoryPanels_150: 7572969390451172284
+      menu,levelsSelect,invetoryPanels_151: 1352427534303281262
+      menu,levelsSelect,invetoryPanels_152: -5355630982820859869
+      menu,levelsSelect,invetoryPanels_153: 3420723124684921580
+      menu,levelsSelect,invetoryPanels_154: -970396592034203566
+      menu,levelsSelect,invetoryPanels_155: -6012829154946715096
+      menu,levelsSelect,invetoryPanels_156: -8046849897413212125
+      menu,levelsSelect,invetoryPanels_157: 3568263971387856080
+      menu,levelsSelect,invetoryPanels_158: 6999034587650867747
+      menu,levelsSelect,invetoryPanels_159: 7387069013205014519
+      menu,levelsSelect,invetoryPanels_16: 7769107632613551680
+      menu,levelsSelect,invetoryPanels_160: -2606291383928080591
+      menu,levelsSelect,invetoryPanels_161: 9028569766754714636
+      menu,levelsSelect,invetoryPanels_162: 3800278295036909590
+      menu,levelsSelect,invetoryPanels_163: 4827092261462770791
+      menu,levelsSelect,invetoryPanels_164: 3091438801768534098
+      menu,levelsSelect,invetoryPanels_165: -7725569933181970487
+      menu,levelsSelect,invetoryPanels_166: 7779618891065436904
+      menu,levelsSelect,invetoryPanels_167: 8835775714271321114
+      menu,levelsSelect,invetoryPanels_168: -1517177057488781105
+      menu,levelsSelect,invetoryPanels_169: 6354337092701150938
+      menu,levelsSelect,invetoryPanels_17: -7110513047190836594
+      menu,levelsSelect,invetoryPanels_170: -1304272019653114520
+      menu,levelsSelect,invetoryPanels_171: 3386485407347914008
+      menu,levelsSelect,invetoryPanels_172: -7745157858320986011
+      menu,levelsSelect,invetoryPanels_173: -5027692564693702100
+      menu,levelsSelect,invetoryPanels_174: -7548921181628699309
+      menu,levelsSelect,invetoryPanels_175: -311994711910726740
+      menu,levelsSelect,invetoryPanels_176: -6774292177762746857
+      menu,levelsSelect,invetoryPanels_177: 252135349640054598
+      menu,levelsSelect,invetoryPanels_178: -7247997138172061614
+      menu,levelsSelect,invetoryPanels_18: 7163139196834201620
+      menu,levelsSelect,invetoryPanels_19: -2349751802889409761
+      menu,levelsSelect,invetoryPanels_2: 2050965107850907376
+      menu,levelsSelect,invetoryPanels_20: 9098220996047009207
+      menu,levelsSelect,invetoryPanels_21: -8004150201490490870
+      menu,levelsSelect,invetoryPanels_22: -6895012189561652712
+      menu,levelsSelect,invetoryPanels_23: 8857138451465932697
+      menu,levelsSelect,invetoryPanels_24: -5157123016344520268
+      menu,levelsSelect,invetoryPanels_25: -4519547409000112487
+      menu,levelsSelect,invetoryPanels_26: 4670903544140827389
+      menu,levelsSelect,invetoryPanels_27: 5232012489279581581
+      menu,levelsSelect,invetoryPanels_28: 5507009462619888167
+      menu,levelsSelect,invetoryPanels_29: 4525541105326726533
+      menu,levelsSelect,invetoryPanels_3: 748361753559072648
+      menu,levelsSelect,invetoryPanels_30: 2284166045155189690
+      menu,levelsSelect,invetoryPanels_31: 8751251871418491334
+      menu,levelsSelect,invetoryPanels_32: 1250727462029092105
+      menu,levelsSelect,invetoryPanels_33: 2242601009259131900
+      menu,levelsSelect,invetoryPanels_34: -6162746896728611046
+      menu,levelsSelect,invetoryPanels_35: -4944753743042885379
+      menu,levelsSelect,invetoryPanels_36: -8950280944208038204
+      menu,levelsSelect,invetoryPanels_37: -1132349870342720493
+      menu,levelsSelect,invetoryPanels_38: -6159743760297451221
+      menu,levelsSelect,invetoryPanels_39: -4564996995006688839
+      menu,levelsSelect,invetoryPanels_4: -5187534215463002088
+      menu,levelsSelect,invetoryPanels_40: 1779581388139994206
+      menu,levelsSelect,invetoryPanels_41: -8571156469528105839
+      menu,levelsSelect,invetoryPanels_42: -5301760683721259821
+      menu,levelsSelect,invetoryPanels_43: 5374523480326708275
+      menu,levelsSelect,invetoryPanels_44: -2728841513873718250
+      menu,levelsSelect,invetoryPanels_45: 3352802055428586962
+      menu,levelsSelect,invetoryPanels_46: 4014229426007267215
+      menu,levelsSelect,invetoryPanels_47: -1303155890169558867
+      menu,levelsSelect,invetoryPanels_48: -4330514047545667605
+      menu,levelsSelect,invetoryPanels_49: -1229165334752738542
+      menu,levelsSelect,invetoryPanels_5: 5119034757794528578
+      menu,levelsSelect,invetoryPanels_50: 5386802627308941607
+      menu,levelsSelect,invetoryPanels_51: 7239939606349839313
+      menu,levelsSelect,invetoryPanels_52: 8574817384251848077
+      menu,levelsSelect,invetoryPanels_53: 6698827776560704053
+      menu,levelsSelect,invetoryPanels_54: 2848683293682579404
+      menu,levelsSelect,invetoryPanels_55: -4186808517265676395
+      menu,levelsSelect,invetoryPanels_56: 2929343393222667165
+      menu,levelsSelect,invetoryPanels_57: 6439857112175321295
+      menu,levelsSelect,invetoryPanels_58: 4263271547736648663
+      menu,levelsSelect,invetoryPanels_59: -4575048328987491081
+      menu,levelsSelect,invetoryPanels_6: -2522827375808671724
+      menu,levelsSelect,invetoryPanels_60: 5928932502728007356
+      menu,levelsSelect,invetoryPanels_61: 8847699655095527041
+      menu,levelsSelect,invetoryPanels_62: -2618589875349017806
+      menu,levelsSelect,invetoryPanels_63: -4162587122497544755
+      menu,levelsSelect,invetoryPanels_64: 6398906953292546565
+      menu,levelsSelect,invetoryPanels_65: 5930920182708256703
+      menu,levelsSelect,invetoryPanels_66: -1712109295278641219
+      menu,levelsSelect,invetoryPanels_67: -4991817290098805702
+      menu,levelsSelect,invetoryPanels_68: 3045231097557899748
+      menu,levelsSelect,invetoryPanels_69: 7923571659100652325
+      menu,levelsSelect,invetoryPanels_7: 369789732121045109
+      menu,levelsSelect,invetoryPanels_70: -5970460176380674448
+      menu,levelsSelect,invetoryPanels_71: 4095396797289118172
+      menu,levelsSelect,invetoryPanels_72: -8639378236951690765
+      menu,levelsSelect,invetoryPanels_73: 2092610556002314657
+      menu,levelsSelect,invetoryPanels_74: 7573584174042827716
+      menu,levelsSelect,invetoryPanels_75: 2586218056394809715
+      menu,levelsSelect,invetoryPanels_76: 3087045182905403326
+      menu,levelsSelect,invetoryPanels_77: 6409784485444318618
+      menu,levelsSelect,invetoryPanels_78: -5695739927977611100
+      menu,levelsSelect,invetoryPanels_79: -5828205760772640029
+      menu,levelsSelect,invetoryPanels_8: 1447103731475501515
+      menu,levelsSelect,invetoryPanels_80: -5102497093421756382
+      menu,levelsSelect,invetoryPanels_81: 9135323613882190731
+      menu,levelsSelect,invetoryPanels_82: 2503398271421245431
+      menu,levelsSelect,invetoryPanels_83: -1088111397008661244
+      menu,levelsSelect,invetoryPanels_84: -1084407917995504587
+      menu,levelsSelect,invetoryPanels_85: -3995538424482773841
+      menu,levelsSelect,invetoryPanels_86: 4553559612125364284
+      menu,levelsSelect,invetoryPanels_87: 1831503905742583865
+      menu,levelsSelect,invetoryPanels_88: -7148308545558791635
+      menu,levelsSelect,invetoryPanels_89: -805010491952544984
+      menu,levelsSelect,invetoryPanels_9: 3849624243928967330
+      menu,levelsSelect,invetoryPanels_90: 6991152697230239368
+      menu,levelsSelect,invetoryPanels_91: 1937080576772447539
+      menu,levelsSelect,invetoryPanels_92: -1253045525300949659
+      menu,levelsSelect,invetoryPanels_93: -5451437554903597891
+      menu,levelsSelect,invetoryPanels_94: 1965684461873073892
+      menu,levelsSelect,invetoryPanels_95: 3135818707626045734
+      menu,levelsSelect,invetoryPanels_96: -624531594051953502
+      menu,levelsSelect,invetoryPanels_97: 6202963804879344004
+      menu,levelsSelect,invetoryPanels_98: -5777870488521266518
+      menu,levelsSelect,invetoryPanels_99: 30470060396185526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

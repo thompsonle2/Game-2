@@ -12,8 +12,12 @@ public class DisplayObjective : MonoBehaviour
 
     void Start()
     {
-        // Refresh corner objective text when returning to MainGame scene
-        if (PlayerPrefs.HasKey("CurrentObjective"))
+        UpdateObjectiveUI();
+    }
+
+    public void UpdateObjectiveUI()
+    {
+        if (objectiveText != null && PlayerPrefs.HasKey("CurrentObjective"))
         {
             objectiveText.text = PlayerPrefs.GetString("CurrentObjective");
         }
